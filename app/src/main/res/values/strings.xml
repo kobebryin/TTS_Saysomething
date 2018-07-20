@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Talk Lips</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-8638499673748784/8488915956</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-8638499673748784/7673160756</string>
+
+    <string name="text_null_alarm">you did not type any word, please try again.</string>
+    <string name="line_install_alarm">your device has not install line app</string>
+    <string name="pitch">pitch</string>
+    <string name="speechRate">Rate</string>
+    <string name="hint">Type what you want to say</string>
+    <string name="say_btn">Say</string>
+    <string name="open_browser">open file browser</string>
+    <string-array name="language_list">
+        <item>Chinese</item>
+        <item>English</item>
+        <item>Japanese</item>
+    </string-array>
+</resources>
